@@ -4,3 +4,4 @@ scikit-learn
 matplotlib
 streamlit
 plotly
+altair
